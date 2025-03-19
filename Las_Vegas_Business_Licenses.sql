@@ -1,3 +1,6 @@
+CREATE DATABASE Businesses;
+USE Businesses;
+
 CREATE TABLE Las_Vegas_Business_Licenses (
     Business_Name VARCHAR(255),
     Owner_Name VARCHAR(255),
@@ -508,3 +511,5 @@ INSERT INTO Las_Vegas_Business_Licenses (Business_Name, Owner_Name, Address, Bus
 ('Vegas Retail Hub 37', 'Michael Johnson', '1972 Elm St, Las Vegas, NV', 'Construction', 'Revoked', 50),
 ('Vegas Retail Hub 32', 'Emily Davis', '9061 Fremont St, Las Vegas, NV', 'Automotive Repair', 'Active', 18),
 ('Elite Consulting 71', 'Jessica Jones', '8400 Elm St, Las Vegas, NV', 'Construction', 'Expired', 68);
+
+SELECT * FROM Las_Vegas_Business_Licenses LIMIT 5;
