@@ -1,0 +1,501 @@
+Business_Name,Owner_Name,Address,Business_Type,License_Status,Employees_Reported
+Vegas Retail Hub 33,Daniel Brown,"7716 Rainbow Blvd, Las Vegas, NV",Construction,Revoked,73
+Sunrise Cafe 87,Jessica Johnson,"4672 Main St, Las Vegas, NV",Restaurant,Active,51
+QuickFix Auto 21,John Garcia,"3595 Rainbow Blvd, Las Vegas, NV",Retail,Expired,30
+Elite Consulting 60,Sarah Martinez,"7254 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Expired,41
+Vegas Retail Hub 54,Jessica Davis,"2952 Elm St, Las Vegas, NV",Consulting,Expired,13
+Elite Consulting 62,Laura Garcia,"5646 Rainbow Blvd, Las Vegas, NV",Automotive Repair,Revoked,63
+QuickFix Auto 81,Laura Johnson,"3732 Fremont St, Las Vegas, NV",Construction,Revoked,55
+Elite Consulting 38,Sarah Brown,"5186 Elm St, Las Vegas, NV",Construction,Revoked,39
+Silver State Contractors 4,Michael Davis,"4127 Main St, Las Vegas, NV",Retail,Expired,95
+Vegas Retail Hub 26,Jessica Johnson,"5226 Charleston Blvd, Las Vegas, NV",Construction,Revoked,94
+Vegas Retail Hub 55,Jane Williams,"1357 Rainbow Blvd, Las Vegas, NV",Automotive Repair,Revoked,51
+Silver State Contractors 3,Jane Williams,"9959 Main St, Las Vegas, NV",Retail,Active,5
+Silver State Contractors 18,Daniel Garcia,"2227 Las Vegas Blvd, Las Vegas, NV",Restaurant,Active,11
+Elite Consulting 30,Michael Martinez,"2010 Las Vegas Blvd, Las Vegas, NV",Retail,Expired,30
+Elite Consulting 73,Jane Miller,"8990 Charleston Blvd, Las Vegas, NV",Retail,Expired,29
+Vegas Retail Hub 71,John Johnson,"4696 Charleston Blvd, Las Vegas, NV",Construction,Revoked,95
+Elite Consulting 87,John Smith,"5202 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Active,8
+Elite Consulting 95,Robert Smith,"3331 Elm St, Las Vegas, NV",Retail,Revoked,74
+Elite Consulting 7,Michael Martinez,"5519 Sunset Blvd, Las Vegas, NV",Retail,Expired,52
+QuickFix Auto 13,Emily Hernandez,"2266 Las Vegas Blvd, Las Vegas, NV",Restaurant,Active,42
+QuickFix Auto 6,Daniel Martinez,"7630 Elm St, Las Vegas, NV",Retail,Active,85
+Vegas Retail Hub 59,Jessica Jones,"8667 Las Vegas Blvd, Las Vegas, NV",Retail,Expired,33
+Elite Consulting 8,John Williams,"7137 Rainbow Blvd, Las Vegas, NV",Automotive Repair,Revoked,71
+Sunrise Cafe 47,David Williams,"2977 Main St, Las Vegas, NV",Automotive Repair,Active,50
+Silver State Contractors 64,Jane Hernandez,"3526 Fremont St, Las Vegas, NV",Construction,Active,69
+Elite Consulting 92,Sarah Johnson,"2707 Elm St, Las Vegas, NV",Restaurant,Expired,99
+Silver State Contractors 13,Daniel Hernandez,"4935 Sunset Blvd, Las Vegas, NV",Restaurant,Revoked,90
+Vegas Retail Hub 94,Jane Garcia,"7513 Elm St, Las Vegas, NV",Consulting,Revoked,94
+Vegas Retail Hub 31,Daniel Garcia,"8046 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Expired,72
+Silver State Contractors 92,Emily Hernandez,"1360 Las Vegas Blvd, Las Vegas, NV",Construction,Active,0
+Vegas Retail Hub 21,John Garcia,"3756 Rainbow Blvd, Las Vegas, NV",Consulting,Revoked,46
+Sunrise Cafe 91,Laura Williams,"2924 Sunset Blvd, Las Vegas, NV",Automotive Repair,Revoked,94
+QuickFix Auto 46,David Williams,"6850 Main St, Las Vegas, NV",Automotive Repair,Revoked,82
+Silver State Contractors 85,Robert Miller,"281 Sunset Blvd, Las Vegas, NV",Consulting,Expired,15
+Sunrise Cafe 38,Daniel Davis,"758 Las Vegas Blvd, Las Vegas, NV",Restaurant,Expired,74
+Vegas Retail Hub 54,Michael Brown,"8326 Las Vegas Blvd, Las Vegas, NV",Consulting,Revoked,69
+Elite Consulting 29,Jessica Brown,"9582 Main St, Las Vegas, NV",Automotive Repair,Expired,71
+Elite Consulting 67,Laura Smith,"555 Las Vegas Blvd, Las Vegas, NV",Restaurant,Expired,84
+Vegas Retail Hub 80,Robert Davis,"6410 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Active,41
+Elite Consulting 91,David Martinez,"8990 Elm St, Las Vegas, NV",Retail,Active,37
+QuickFix Auto 81,Daniel Smith,"8834 Main St, Las Vegas, NV",Automotive Repair,Active,68
+QuickFix Auto 75,Daniel Williams,"5452 Main St, Las Vegas, NV",Consulting,Active,32
+QuickFix Auto 41,John Martinez,"662 Sunset Blvd, Las Vegas, NV",Consulting,Active,82
+Vegas Retail Hub 36,Emily Jones,"4283 Sunset Blvd, Las Vegas, NV",Construction,Active,43
+Elite Consulting 55,John Davis,"3886 Elm St, Las Vegas, NV",Consulting,Expired,84
+Vegas Retail Hub 81,John Smith,"170 Rainbow Blvd, Las Vegas, NV",Restaurant,Expired,91
+Sunrise Cafe 47,Michael Johnson,"6369 Las Vegas Blvd, Las Vegas, NV",Construction,Active,43
+Vegas Retail Hub 54,Daniel Smith,"5994 Fremont St, Las Vegas, NV",Retail,Expired,48
+QuickFix Auto 59,Emily Davis,"4906 Las Vegas Blvd, Las Vegas, NV",Consulting,Revoked,55
+Silver State Contractors 65,Daniel Garcia,"3725 Fremont St, Las Vegas, NV",Automotive Repair,Revoked,48
+Vegas Retail Hub 5,Laura Smith,"8020 Elm St, Las Vegas, NV",Restaurant,Revoked,5
+Vegas Retail Hub 54,Jessica Miller,"8781 Las Vegas Blvd, Las Vegas, NV",Consulting,Revoked,37
+Silver State Contractors 10,Laura Garcia,"2910 Fremont St, Las Vegas, NV",Automotive Repair,Expired,6
+Silver State Contractors 48,John Martinez,"5615 Main St, Las Vegas, NV",Restaurant,Expired,75
+Sunrise Cafe 98,John Martinez,"6395 Elm St, Las Vegas, NV",Retail,Active,78
+QuickFix Auto 70,Jane Martinez,"7222 Charleston Blvd, Las Vegas, NV",Restaurant,Revoked,65
+QuickFix Auto 68,Robert Johnson,"6586 Rainbow Blvd, Las Vegas, NV",Automotive Repair,Revoked,96
+Elite Consulting 33,Michael Miller,"4494 Elm St, Las Vegas, NV",Retail,Expired,53
+QuickFix Auto 40,Sarah Davis,"2954 Sunset Blvd, Las Vegas, NV",Consulting,Active,0
+Sunrise Cafe 95,Laura Davis,"5137 Fremont St, Las Vegas, NV",Construction,Expired,32
+Elite Consulting 19,Jessica Brown,"8413 Las Vegas Blvd, Las Vegas, NV",Retail,Revoked,70
+Elite Consulting 96,Jane Brown,"4917 Sunset Blvd, Las Vegas, NV",Automotive Repair,Expired,95
+Silver State Contractors 36,Robert Smith,"5958 Main St, Las Vegas, NV",Consulting,Expired,61
+QuickFix Auto 39,Emily Martinez,"9599 Las Vegas Blvd, Las Vegas, NV",Consulting,Active,18
+Elite Consulting 40,Sarah Johnson,"8751 Fremont St, Las Vegas, NV",Retail,Expired,15
+QuickFix Auto 37,Robert Williams,"7426 Charleston Blvd, Las Vegas, NV",Retail,Active,88
+Sunrise Cafe 70,Daniel Hernandez,"3867 Las Vegas Blvd, Las Vegas, NV",Construction,Active,9
+Vegas Retail Hub 71,John Smith,"5735 Fremont St, Las Vegas, NV",Retail,Revoked,15
+Elite Consulting 16,Jessica Garcia,"9849 Sunset Blvd, Las Vegas, NV",Restaurant,Expired,92
+QuickFix Auto 26,Daniel Miller,"9600 Elm St, Las Vegas, NV",Consulting,Revoked,9
+Elite Consulting 82,Jane Jones,"8233 Fremont St, Las Vegas, NV",Automotive Repair,Active,2
+QuickFix Auto 56,Jane Garcia,"5278 Main St, Las Vegas, NV",Consulting,Expired,27
+Elite Consulting 82,Emily Jones,"6602 Charleston Blvd, Las Vegas, NV",Construction,Active,32
+Vegas Retail Hub 37,John Martinez,"4804 Elm St, Las Vegas, NV",Retail,Active,18
+Vegas Retail Hub 33,David Martinez,"3536 Sunset Blvd, Las Vegas, NV",Restaurant,Expired,35
+Sunrise Cafe 8,Emily Martinez,"1165 Rainbow Blvd, Las Vegas, NV",Restaurant,Expired,32
+Elite Consulting 87,Daniel Davis,"9764 Elm St, Las Vegas, NV",Consulting,Expired,58
+QuickFix Auto 54,Sarah Brown,"272 Main St, Las Vegas, NV",Restaurant,Revoked,85
+QuickFix Auto 90,Sarah Davis,"1893 Fremont St, Las Vegas, NV",Consulting,Active,46
+Vegas Retail Hub 8,Robert Williams,"526 Elm St, Las Vegas, NV",Construction,Revoked,99
+Elite Consulting 52,Daniel Jones,"1481 Charleston Blvd, Las Vegas, NV",Construction,Revoked,30
+Elite Consulting 24,David Martinez,"7926 Sunset Blvd, Las Vegas, NV",Consulting,Expired,15
+Elite Consulting 38,Daniel Miller,"5337 Elm St, Las Vegas, NV",Automotive Repair,Expired,75
+Elite Consulting 42,Emily Williams,"6161 Elm St, Las Vegas, NV",Construction,Revoked,82
+Elite Consulting 31,Jane Garcia,"1829 Charleston Blvd, Las Vegas, NV",Restaurant,Revoked,82
+Silver State Contractors 86,Jessica Davis,"6272 Sunset Blvd, Las Vegas, NV",Retail,Revoked,72
+Sunrise Cafe 56,Michael Garcia,"7979 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Expired,75
+Elite Consulting 61,Robert Jones,"6082 Elm St, Las Vegas, NV",Retail,Revoked,58
+QuickFix Auto 28,Robert Smith,"9034 Rainbow Blvd, Las Vegas, NV",Construction,Revoked,48
+Elite Consulting 97,Emily Williams,"4934 Charleston Blvd, Las Vegas, NV",Construction,Expired,61
+Vegas Retail Hub 51,John Brown,"3362 Charleston Blvd, Las Vegas, NV",Consulting,Active,25
+Vegas Retail Hub 64,David Garcia,"9741 Fremont St, Las Vegas, NV",Retail,Revoked,60
+Elite Consulting 2,David Garcia,"9473 Rainbow Blvd, Las Vegas, NV",Retail,Expired,30
+Sunrise Cafe 81,Daniel Davis,"6637 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Active,74
+QuickFix Auto 65,Jessica Johnson,"8993 Rainbow Blvd, Las Vegas, NV",Restaurant,Active,94
+QuickFix Auto 53,Jane Garcia,"888 Main St, Las Vegas, NV",Construction,Expired,3
+Vegas Retail Hub 10,Emily Garcia,"4978 Elm St, Las Vegas, NV",Consulting,Revoked,43
+Silver State Contractors 16,Sarah Johnson,"4317 Elm St, Las Vegas, NV",Restaurant,Revoked,81
+Silver State Contractors 40,Robert Brown,"3571 Fremont St, Las Vegas, NV",Construction,Revoked,11
+Sunrise Cafe 1,Emily Jones,"2626 Main St, Las Vegas, NV",Restaurant,Active,78
+QuickFix Auto 26,Laura Garcia,"8016 Main St, Las Vegas, NV",Consulting,Expired,44
+Silver State Contractors 15,Laura Martinez,"9621 Sunset Blvd, Las Vegas, NV",Retail,Revoked,26
+Sunrise Cafe 2,Daniel Davis,"252 Rainbow Blvd, Las Vegas, NV",Consulting,Expired,97
+Silver State Contractors 60,Jane Martinez,"2889 Fremont St, Las Vegas, NV",Construction,Expired,80
+Silver State Contractors 71,Jessica Martinez,"3613 Sunset Blvd, Las Vegas, NV",Automotive Repair,Active,50
+Elite Consulting 37,Robert Davis,"3349 Fremont St, Las Vegas, NV",Construction,Revoked,78
+Silver State Contractors 10,Laura Davis,"8291 Rainbow Blvd, Las Vegas, NV",Consulting,Active,28
+QuickFix Auto 95,John Martinez,"5236 Charleston Blvd, Las Vegas, NV",Retail,Expired,23
+QuickFix Auto 23,Robert Garcia,"4991 Rainbow Blvd, Las Vegas, NV",Restaurant,Revoked,27
+Silver State Contractors 90,Jessica Johnson,"8189 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Expired,95
+Elite Consulting 84,Laura Johnson,"9689 Main St, Las Vegas, NV",Restaurant,Revoked,20
+Silver State Contractors 88,Jessica Davis,"3473 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Active,96
+QuickFix Auto 44,Jessica Garcia,"4450 Las Vegas Blvd, Las Vegas, NV",Consulting,Revoked,63
+Elite Consulting 75,Emily Johnson,"356 Las Vegas Blvd, Las Vegas, NV",Consulting,Revoked,30
+Vegas Retail Hub 88,Sarah Jones,"2121 Elm St, Las Vegas, NV",Construction,Revoked,4
+Vegas Retail Hub 57,John Davis,"8482 Main St, Las Vegas, NV",Restaurant,Active,66
+Sunrise Cafe 83,David Martinez,"8342 Rainbow Blvd, Las Vegas, NV",Retail,Active,83
+Silver State Contractors 55,Sarah Williams,"1703 Main St, Las Vegas, NV",Automotive Repair,Expired,19
+Silver State Contractors 87,Laura Martinez,"1305 Rainbow Blvd, Las Vegas, NV",Automotive Repair,Revoked,80
+Vegas Retail Hub 15,John Williams,"2494 Sunset Blvd, Las Vegas, NV",Construction,Expired,60
+Sunrise Cafe 60,Emily Johnson,"2572 Rainbow Blvd, Las Vegas, NV",Automotive Repair,Revoked,87
+QuickFix Auto 90,Laura Martinez,"1854 Sunset Blvd, Las Vegas, NV",Retail,Expired,17
+Elite Consulting 53,Robert Williams,"1579 Rainbow Blvd, Las Vegas, NV",Retail,Active,44
+Sunrise Cafe 100,Laura Williams,"409 Fremont St, Las Vegas, NV",Retail,Expired,14
+Vegas Retail Hub 70,Jane Jones,"9578 Elm St, Las Vegas, NV",Construction,Revoked,51
+Silver State Contractors 28,Jane Johnson,"8941 Elm St, Las Vegas, NV",Automotive Repair,Expired,76
+Silver State Contractors 84,Michael Johnson,"7071 Sunset Blvd, Las Vegas, NV",Consulting,Active,95
+Silver State Contractors 31,Michael Hernandez,"1822 Charleston Blvd, Las Vegas, NV",Retail,Revoked,90
+Silver State Contractors 21,Jessica Williams,"4210 Charleston Blvd, Las Vegas, NV",Consulting,Revoked,60
+QuickFix Auto 39,Michael Brown,"2242 Rainbow Blvd, Las Vegas, NV",Consulting,Expired,27
+Vegas Retail Hub 54,Jessica Miller,"8152 Las Vegas Blvd, Las Vegas, NV",Restaurant,Active,39
+Elite Consulting 50,John Davis,"7097 Charleston Blvd, Las Vegas, NV",Automotive Repair,Expired,34
+Silver State Contractors 94,Laura Smith,"2360 Elm St, Las Vegas, NV",Automotive Repair,Revoked,65
+Elite Consulting 61,Sarah Johnson,"9651 Main St, Las Vegas, NV",Consulting,Revoked,86
+Sunrise Cafe 48,Michael Davis,"9128 Fremont St, Las Vegas, NV",Retail,Revoked,90
+Elite Consulting 98,Michael Brown,"7078 Rainbow Blvd, Las Vegas, NV",Automotive Repair,Expired,63
+Sunrise Cafe 61,Jessica Hernandez,"6344 Charleston Blvd, Las Vegas, NV",Restaurant,Revoked,99
+QuickFix Auto 72,Robert Martinez,"7463 Charleston Blvd, Las Vegas, NV",Consulting,Revoked,78
+Silver State Contractors 15,Jane Jones,"819 Sunset Blvd, Las Vegas, NV",Consulting,Revoked,91
+Silver State Contractors 3,Sarah Davis,"7069 Fremont St, Las Vegas, NV",Construction,Expired,72
+Elite Consulting 23,Jane Martinez,"1427 Las Vegas Blvd, Las Vegas, NV",Construction,Active,46
+Silver State Contractors 80,David Garcia,"267 Elm St, Las Vegas, NV",Retail,Revoked,11
+Silver State Contractors 35,Robert Miller,"2024 Elm St, Las Vegas, NV",Automotive Repair,Expired,95
+Sunrise Cafe 53,John Williams,"794 Fremont St, Las Vegas, NV",Consulting,Expired,95
+Elite Consulting 17,Sarah Smith,"2228 Las Vegas Blvd, Las Vegas, NV",Retail,Expired,70
+QuickFix Auto 17,Robert Johnson,"8385 Charleston Blvd, Las Vegas, NV",Construction,Active,54
+QuickFix Auto 57,Sarah Smith,"6316 Charleston Blvd, Las Vegas, NV",Consulting,Revoked,87
+Sunrise Cafe 4,Daniel Johnson,"1004 Elm St, Las Vegas, NV",Automotive Repair,Active,39
+QuickFix Auto 95,Daniel Hernandez,"7838 Elm St, Las Vegas, NV",Retail,Expired,81
+Sunrise Cafe 11,Robert Johnson,"2081 Charleston Blvd, Las Vegas, NV",Restaurant,Revoked,13
+Sunrise Cafe 53,Michael Brown,"2040 Las Vegas Blvd, Las Vegas, NV",Consulting,Active,63
+Elite Consulting 73,Laura Jones,"1025 Charleston Blvd, Las Vegas, NV",Construction,Revoked,87
+QuickFix Auto 12,Daniel Smith,"2096 Rainbow Blvd, Las Vegas, NV",Construction,Active,84
+Silver State Contractors 100,Emily Smith,"2463 Elm St, Las Vegas, NV",Consulting,Active,27
+QuickFix Auto 7,Jessica Garcia,"714 Rainbow Blvd, Las Vegas, NV",Automotive Repair,Active,3
+Sunrise Cafe 93,David Martinez,"8816 Main St, Las Vegas, NV",Consulting,Expired,97
+Sunrise Cafe 63,Laura Miller,"9399 Sunset Blvd, Las Vegas, NV",Automotive Repair,Active,65
+Vegas Retail Hub 95,Sarah Johnson,"5054 Elm St, Las Vegas, NV",Retail,Expired,34
+QuickFix Auto 7,Jessica Brown,"5712 Fremont St, Las Vegas, NV",Restaurant,Expired,3
+Vegas Retail Hub 57,Sarah Smith,"8683 Las Vegas Blvd, Las Vegas, NV",Consulting,Revoked,35
+Elite Consulting 58,Laura Jones,"8384 Sunset Blvd, Las Vegas, NV",Restaurant,Expired,44
+Elite Consulting 93,John Martinez,"3819 Elm St, Las Vegas, NV",Consulting,Expired,19
+Elite Consulting 96,David Jones,"8506 Main St, Las Vegas, NV",Automotive Repair,Revoked,37
+QuickFix Auto 10,Jane Jones,"8841 Rainbow Blvd, Las Vegas, NV",Construction,Revoked,25
+Elite Consulting 11,Michael Martinez,"7784 Las Vegas Blvd, Las Vegas, NV",Retail,Revoked,71
+Silver State Contractors 27,Laura Smith,"4900 Las Vegas Blvd, Las Vegas, NV",Consulting,Expired,43
+QuickFix Auto 10,Emily Garcia,"9637 Rainbow Blvd, Las Vegas, NV",Automotive Repair,Active,21
+Sunrise Cafe 34,Sarah Hernandez,"8542 Elm St, Las Vegas, NV",Retail,Expired,53
+Sunrise Cafe 41,John Smith,"5141 Fremont St, Las Vegas, NV",Restaurant,Active,87
+Vegas Retail Hub 39,John Williams,"7127 Sunset Blvd, Las Vegas, NV",Retail,Expired,45
+Elite Consulting 80,Sarah Brown,"8659 Fremont St, Las Vegas, NV",Retail,Revoked,33
+Sunrise Cafe 7,Robert Brown,"7261 Las Vegas Blvd, Las Vegas, NV",Restaurant,Expired,99
+Elite Consulting 44,Sarah Miller,"9979 Rainbow Blvd, Las Vegas, NV",Construction,Active,97
+Sunrise Cafe 90,David Garcia,"8623 Sunset Blvd, Las Vegas, NV",Restaurant,Revoked,37
+QuickFix Auto 82,Jane Jones,"6322 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Active,97
+QuickFix Auto 55,Daniel Johnson,"6177 Charleston Blvd, Las Vegas, NV",Automotive Repair,Revoked,1
+Silver State Contractors 82,Sarah Brown,"4823 Las Vegas Blvd, Las Vegas, NV",Construction,Active,57
+Silver State Contractors 35,Emily Garcia,"4215 Main St, Las Vegas, NV",Retail,Active,86
+Sunrise Cafe 1,Jessica Martinez,"6837 Main St, Las Vegas, NV",Restaurant,Revoked,56
+Silver State Contractors 59,Daniel Garcia,"4532 Sunset Blvd, Las Vegas, NV",Restaurant,Active,53
+Silver State Contractors 22,Daniel Miller,"3304 Charleston Blvd, Las Vegas, NV",Retail,Expired,77
+QuickFix Auto 64,Daniel Hernandez,"205 Main St, Las Vegas, NV",Consulting,Revoked,10
+Silver State Contractors 26,John Garcia,"2090 Las Vegas Blvd, Las Vegas, NV",Restaurant,Active,49
+QuickFix Auto 47,Michael Brown,"9879 Elm St, Las Vegas, NV",Automotive Repair,Revoked,84
+QuickFix Auto 75,Laura Garcia,"5805 Fremont St, Las Vegas, NV",Automotive Repair,Revoked,16
+Silver State Contractors 6,Sarah Brown,"8202 Rainbow Blvd, Las Vegas, NV",Automotive Repair,Revoked,16
+Vegas Retail Hub 73,Jessica Miller,"8478 Charleston Blvd, Las Vegas, NV",Construction,Active,52
+Silver State Contractors 8,Jessica Hernandez,"8533 Fremont St, Las Vegas, NV",Restaurant,Expired,78
+Silver State Contractors 48,Robert Davis,"8538 Rainbow Blvd, Las Vegas, NV",Automotive Repair,Revoked,12
+Silver State Contractors 12,Jane Smith,"9634 Charleston Blvd, Las Vegas, NV",Construction,Active,7
+Sunrise Cafe 21,Emily Miller,"2835 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Expired,14
+Silver State Contractors 73,Robert Miller,"9490 Charleston Blvd, Las Vegas, NV",Restaurant,Active,78
+QuickFix Auto 8,Jessica Williams,"8385 Main St, Las Vegas, NV",Consulting,Expired,64
+QuickFix Auto 20,Robert Brown,"8950 Charleston Blvd, Las Vegas, NV",Automotive Repair,Active,29
+Vegas Retail Hub 20,Michael Martinez,"6283 Rainbow Blvd, Las Vegas, NV",Construction,Revoked,35
+Silver State Contractors 33,Emily Williams,"9353 Sunset Blvd, Las Vegas, NV",Automotive Repair,Expired,11
+Sunrise Cafe 83,Daniel Davis,"1503 Rainbow Blvd, Las Vegas, NV",Retail,Revoked,89
+Sunrise Cafe 1,Laura Brown,"500 Sunset Blvd, Las Vegas, NV",Consulting,Revoked,21
+QuickFix Auto 48,Laura Smith,"896 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Active,13
+Silver State Contractors 97,Robert Williams,"4272 Fremont St, Las Vegas, NV",Restaurant,Active,20
+QuickFix Auto 90,David Jones,"8413 Rainbow Blvd, Las Vegas, NV",Restaurant,Revoked,67
+Silver State Contractors 35,Daniel Smith,"4527 Sunset Blvd, Las Vegas, NV",Retail,Expired,18
+Sunrise Cafe 100,Jane Johnson,"6279 Elm St, Las Vegas, NV",Construction,Expired,5
+Vegas Retail Hub 44,Daniel Martinez,"2904 Charleston Blvd, Las Vegas, NV",Automotive Repair,Revoked,10
+Elite Consulting 100,Robert Smith,"4177 Rainbow Blvd, Las Vegas, NV",Automotive Repair,Revoked,42
+QuickFix Auto 15,Daniel Miller,"5884 Rainbow Blvd, Las Vegas, NV",Automotive Repair,Active,16
+QuickFix Auto 8,Daniel Brown,"6721 Sunset Blvd, Las Vegas, NV",Restaurant,Active,24
+Sunrise Cafe 39,Jane Johnson,"513 Charleston Blvd, Las Vegas, NV",Construction,Expired,1
+Sunrise Cafe 12,Laura Davis,"2505 Elm St, Las Vegas, NV",Automotive Repair,Active,23
+Vegas Retail Hub 97,Robert Smith,"895 Main St, Las Vegas, NV",Consulting,Active,31
+Elite Consulting 64,Daniel Williams,"977 Elm St, Las Vegas, NV",Consulting,Expired,16
+Sunrise Cafe 39,Emily Smith,"5350 Main St, Las Vegas, NV",Retail,Expired,73
+Sunrise Cafe 13,Jessica Garcia,"7128 Charleston Blvd, Las Vegas, NV",Construction,Expired,62
+Sunrise Cafe 31,Laura Miller,"5378 Rainbow Blvd, Las Vegas, NV",Restaurant,Active,98
+Elite Consulting 76,Michael Johnson,"1483 Charleston Blvd, Las Vegas, NV",Construction,Revoked,39
+QuickFix Auto 13,Daniel Johnson,"9317 Charleston Blvd, Las Vegas, NV",Construction,Revoked,35
+Sunrise Cafe 79,David Smith,"2274 Main St, Las Vegas, NV",Construction,Revoked,21
+Silver State Contractors 2,Laura Williams,"9157 Charleston Blvd, Las Vegas, NV",Retail,Expired,99
+Vegas Retail Hub 34,Robert Davis,"3299 Las Vegas Blvd, Las Vegas, NV",Restaurant,Active,52
+Silver State Contractors 29,David Hernandez,"2507 Elm St, Las Vegas, NV",Construction,Revoked,19
+Silver State Contractors 81,Michael Garcia,"4033 Main St, Las Vegas, NV",Retail,Active,46
+Vegas Retail Hub 59,Sarah Williams,"2111 Rainbow Blvd, Las Vegas, NV",Restaurant,Expired,12
+Silver State Contractors 76,Michael Martinez,"4908 Main St, Las Vegas, NV",Construction,Active,76
+Silver State Contractors 72,John Martinez,"7860 Rainbow Blvd, Las Vegas, NV",Retail,Revoked,67
+Sunrise Cafe 39,Michael Davis,"4250 Fremont St, Las Vegas, NV",Construction,Active,33
+Vegas Retail Hub 77,David Johnson,"5707 Sunset Blvd, Las Vegas, NV",Restaurant,Expired,23
+Elite Consulting 19,Michael Johnson,"4270 Rainbow Blvd, Las Vegas, NV",Retail,Expired,83
+Vegas Retail Hub 94,Jessica Jones,"3875 Main St, Las Vegas, NV",Restaurant,Expired,58
+Sunrise Cafe 68,David Smith,"1848 Las Vegas Blvd, Las Vegas, NV",Restaurant,Revoked,9
+Elite Consulting 30,Jane Williams,"696 Charleston Blvd, Las Vegas, NV",Construction,Active,2
+Sunrise Cafe 18,Michael Garcia,"5036 Charleston Blvd, Las Vegas, NV",Automotive Repair,Active,36
+Vegas Retail Hub 63,Jane Jones,"6651 Main St, Las Vegas, NV",Consulting,Active,16
+Elite Consulting 94,Jessica Brown,"3535 Fremont St, Las Vegas, NV",Construction,Revoked,94
+QuickFix Auto 62,David Smith,"8513 Fremont St, Las Vegas, NV",Construction,Revoked,82
+Elite Consulting 11,Daniel Williams,"2738 Elm St, Las Vegas, NV",Retail,Expired,86
+Sunrise Cafe 68,David Brown,"4091 Fremont St, Las Vegas, NV",Construction,Expired,74
+Vegas Retail Hub 21,Robert Miller,"1204 Main St, Las Vegas, NV",Automotive Repair,Expired,9
+QuickFix Auto 70,Emily Williams,"8364 Las Vegas Blvd, Las Vegas, NV",Restaurant,Active,67
+Silver State Contractors 26,Michael Brown,"182 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Active,50
+Vegas Retail Hub 83,Michael Garcia,"2175 Fremont St, Las Vegas, NV",Restaurant,Expired,0
+Silver State Contractors 91,Laura Brown,"4067 Main St, Las Vegas, NV",Automotive Repair,Expired,18
+Silver State Contractors 86,Laura Smith,"9198 Las Vegas Blvd, Las Vegas, NV",Restaurant,Expired,81
+Sunrise Cafe 73,Jessica Martinez,"4071 Rainbow Blvd, Las Vegas, NV",Retail,Expired,91
+Silver State Contractors 77,Daniel Miller,"1558 Main St, Las Vegas, NV",Consulting,Revoked,64
+Elite Consulting 90,Michael Martinez,"8380 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Expired,74
+Vegas Retail Hub 74,Jessica Smith,"7610 Sunset Blvd, Las Vegas, NV",Consulting,Revoked,58
+Sunrise Cafe 30,David Johnson,"739 Sunset Blvd, Las Vegas, NV",Consulting,Active,52
+Vegas Retail Hub 93,Sarah Johnson,"7424 Rainbow Blvd, Las Vegas, NV",Construction,Expired,25
+Vegas Retail Hub 10,Daniel Davis,"4438 Las Vegas Blvd, Las Vegas, NV",Retail,Expired,51
+QuickFix Auto 31,Sarah Brown,"805 Main St, Las Vegas, NV",Retail,Active,32
+QuickFix Auto 28,Daniel Brown,"6852 Main St, Las Vegas, NV",Consulting,Revoked,67
+Silver State Contractors 31,Sarah Hernandez,"4914 Charleston Blvd, Las Vegas, NV",Construction,Expired,86
+Elite Consulting 10,Michael Brown,"2370 Charleston Blvd, Las Vegas, NV",Automotive Repair,Active,48
+Sunrise Cafe 58,John Hernandez,"2842 Elm St, Las Vegas, NV",Automotive Repair,Active,29
+Sunrise Cafe 13,Jane Hernandez,"6225 Rainbow Blvd, Las Vegas, NV",Construction,Active,97
+Vegas Retail Hub 62,Daniel Williams,"6754 Las Vegas Blvd, Las Vegas, NV",Restaurant,Expired,79
+Elite Consulting 28,John Martinez,"1412 Las Vegas Blvd, Las Vegas, NV",Consulting,Revoked,58
+Vegas Retail Hub 48,Sarah Jones,"3535 Sunset Blvd, Las Vegas, NV",Restaurant,Revoked,12
+Silver State Contractors 32,John Miller,"8849 Main St, Las Vegas, NV",Automotive Repair,Active,77
+Sunrise Cafe 25,Michael Martinez,"1829 Rainbow Blvd, Las Vegas, NV",Consulting,Active,35
+Silver State Contractors 46,David Smith,"2716 Elm St, Las Vegas, NV",Consulting,Active,47
+Vegas Retail Hub 69,Jane Hernandez,"8590 Rainbow Blvd, Las Vegas, NV",Construction,Expired,46
+Elite Consulting 49,Michael Garcia,"9914 Elm St, Las Vegas, NV",Construction,Active,77
+Sunrise Cafe 73,Emily Davis,"2690 Charleston Blvd, Las Vegas, NV",Retail,Revoked,28
+Sunrise Cafe 39,Robert Hernandez,"8524 Rainbow Blvd, Las Vegas, NV",Retail,Expired,91
+Vegas Retail Hub 61,Laura Garcia,"7744 Charleston Blvd, Las Vegas, NV",Retail,Expired,9
+Sunrise Cafe 34,Laura Johnson,"9681 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Active,6
+Vegas Retail Hub 73,Michael Martinez,"3306 Main St, Las Vegas, NV",Consulting,Revoked,96
+Silver State Contractors 10,Jane Miller,"2908 Rainbow Blvd, Las Vegas, NV",Construction,Revoked,52
+Silver State Contractors 22,Sarah Garcia,"5418 Main St, Las Vegas, NV",Construction,Expired,97
+Elite Consulting 11,Michael Brown,"3662 Elm St, Las Vegas, NV",Automotive Repair,Active,68
+Vegas Retail Hub 5,Michael Miller,"8990 Sunset Blvd, Las Vegas, NV",Retail,Active,48
+Silver State Contractors 1,Robert Garcia,"6802 Rainbow Blvd, Las Vegas, NV",Automotive Repair,Expired,99
+Vegas Retail Hub 23,Michael Martinez,"3986 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Active,84
+Silver State Contractors 38,Daniel Davis,"8824 Elm St, Las Vegas, NV",Restaurant,Expired,81
+Elite Consulting 32,Michael Hernandez,"1607 Main St, Las Vegas, NV",Automotive Repair,Active,10
+Elite Consulting 6,Michael Jones,"7273 Elm St, Las Vegas, NV",Retail,Revoked,36
+Vegas Retail Hub 87,Sarah Miller,"3397 Rainbow Blvd, Las Vegas, NV",Restaurant,Expired,1
+Silver State Contractors 11,Emily Johnson,"3280 Elm St, Las Vegas, NV",Retail,Expired,74
+Vegas Retail Hub 35,John Miller,"796 Charleston Blvd, Las Vegas, NV",Automotive Repair,Active,90
+Sunrise Cafe 17,Jessica Williams,"5803 Main St, Las Vegas, NV",Construction,Expired,71
+Elite Consulting 59,John Garcia,"3039 Las Vegas Blvd, Las Vegas, NV",Retail,Revoked,35
+Vegas Retail Hub 100,Emily Garcia,"6273 Charleston Blvd, Las Vegas, NV",Retail,Active,5
+Vegas Retail Hub 70,Jane Smith,"3337 Charleston Blvd, Las Vegas, NV",Restaurant,Revoked,96
+QuickFix Auto 22,Jessica Martinez,"7451 Rainbow Blvd, Las Vegas, NV",Retail,Expired,91
+QuickFix Auto 32,Sarah Miller,"3905 Rainbow Blvd, Las Vegas, NV",Automotive Repair,Expired,23
+Silver State Contractors 59,Emily Jones,"4338 Main St, Las Vegas, NV",Retail,Active,29
+Sunrise Cafe 33,Robert Martinez,"4451 Charleston Blvd, Las Vegas, NV",Automotive Repair,Expired,51
+Vegas Retail Hub 68,Daniel Martinez,"5332 Sunset Blvd, Las Vegas, NV",Retail,Revoked,46
+Elite Consulting 100,Daniel Garcia,"4057 Main St, Las Vegas, NV",Construction,Expired,56
+Silver State Contractors 93,Michael Smith,"6224 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Active,98
+Sunrise Cafe 29,Michael Martinez,"459 Charleston Blvd, Las Vegas, NV",Construction,Active,22
+QuickFix Auto 38,Robert Johnson,"3864 Sunset Blvd, Las Vegas, NV",Consulting,Revoked,57
+Silver State Contractors 44,Robert Brown,"7696 Rainbow Blvd, Las Vegas, NV",Consulting,Revoked,51
+Elite Consulting 92,Michael Williams,"7255 Elm St, Las Vegas, NV",Construction,Active,35
+Silver State Contractors 81,Daniel Miller,"452 Main St, Las Vegas, NV",Restaurant,Expired,26
+Silver State Contractors 95,Robert Johnson,"8147 Fremont St, Las Vegas, NV",Retail,Active,53
+Sunrise Cafe 97,Michael Johnson,"7086 Sunset Blvd, Las Vegas, NV",Construction,Active,88
+QuickFix Auto 70,David Brown,"3574 Las Vegas Blvd, Las Vegas, NV",Restaurant,Revoked,37
+QuickFix Auto 40,Laura Davis,"2888 Elm St, Las Vegas, NV",Automotive Repair,Active,82
+QuickFix Auto 2,Jessica Smith,"3482 Sunset Blvd, Las Vegas, NV",Consulting,Expired,20
+Silver State Contractors 65,Sarah Hernandez,"9502 Sunset Blvd, Las Vegas, NV",Automotive Repair,Revoked,97
+Elite Consulting 39,John Brown,"7423 Elm St, Las Vegas, NV",Retail,Revoked,60
+Vegas Retail Hub 95,David Miller,"1002 Fremont St, Las Vegas, NV",Restaurant,Expired,50
+Elite Consulting 100,Emily Brown,"2025 Elm St, Las Vegas, NV",Retail,Revoked,74
+Sunrise Cafe 70,Jessica Johnson,"7514 Rainbow Blvd, Las Vegas, NV",Retail,Active,80
+Sunrise Cafe 12,David Williams,"6381 Las Vegas Blvd, Las Vegas, NV",Construction,Active,34
+Silver State Contractors 36,Daniel Miller,"9862 Charleston Blvd, Las Vegas, NV",Construction,Active,25
+QuickFix Auto 72,Daniel Jones,"3804 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Expired,33
+Silver State Contractors 66,Laura Smith,"9856 Sunset Blvd, Las Vegas, NV",Automotive Repair,Revoked,50
+Elite Consulting 38,John Garcia,"7389 Charleston Blvd, Las Vegas, NV",Automotive Repair,Revoked,50
+Silver State Contractors 89,Michael Hernandez,"6646 Charleston Blvd, Las Vegas, NV",Restaurant,Active,73
+Elite Consulting 84,Sarah Williams,"3615 Fremont St, Las Vegas, NV",Construction,Active,21
+Vegas Retail Hub 66,Robert Davis,"3709 Sunset Blvd, Las Vegas, NV",Construction,Expired,66
+QuickFix Auto 6,Jane Garcia,"3532 Fremont St, Las Vegas, NV",Restaurant,Active,46
+Vegas Retail Hub 100,Michael Johnson,"4704 Elm St, Las Vegas, NV",Restaurant,Revoked,87
+QuickFix Auto 28,Robert Johnson,"6063 Rainbow Blvd, Las Vegas, NV",Consulting,Expired,37
+QuickFix Auto 93,Jane Hernandez,"1964 Sunset Blvd, Las Vegas, NV",Automotive Repair,Expired,39
+QuickFix Auto 91,Robert Garcia,"5963 Fremont St, Las Vegas, NV",Construction,Active,88
+Vegas Retail Hub 67,Michael Williams,"8742 Elm St, Las Vegas, NV",Automotive Repair,Active,23
+Vegas Retail Hub 77,Robert Williams,"4125 Elm St, Las Vegas, NV",Construction,Expired,51
+Silver State Contractors 66,Emily Davis,"1893 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Active,13
+QuickFix Auto 55,Robert Jones,"4096 Main St, Las Vegas, NV",Retail,Revoked,75
+Silver State Contractors 7,Jane Garcia,"3147 Main St, Las Vegas, NV",Restaurant,Revoked,38
+Elite Consulting 89,Jane Williams,"6530 Rainbow Blvd, Las Vegas, NV",Retail,Expired,24
+Silver State Contractors 62,Michael Garcia,"8517 Main St, Las Vegas, NV",Automotive Repair,Active,78
+Sunrise Cafe 33,Robert Brown,"7871 Fremont St, Las Vegas, NV",Consulting,Revoked,27
+Sunrise Cafe 40,Laura Johnson,"1621 Fremont St, Las Vegas, NV",Restaurant,Expired,68
+Silver State Contractors 43,Sarah Garcia,"1732 Las Vegas Blvd, Las Vegas, NV",Construction,Revoked,30
+Sunrise Cafe 87,Robert Brown,"3949 Fremont St, Las Vegas, NV",Automotive Repair,Expired,56
+Elite Consulting 69,Emily Brown,"9344 Fremont St, Las Vegas, NV",Restaurant,Expired,29
+Elite Consulting 82,Emily Brown,"7496 Main St, Las Vegas, NV",Restaurant,Revoked,80
+QuickFix Auto 60,Laura Jones,"5409 Las Vegas Blvd, Las Vegas, NV",Consulting,Revoked,79
+Sunrise Cafe 53,Jane Hernandez,"8378 Sunset Blvd, Las Vegas, NV",Consulting,Active,56
+Vegas Retail Hub 62,Jane Miller,"3899 Rainbow Blvd, Las Vegas, NV",Consulting,Active,72
+Vegas Retail Hub 23,Sarah Smith,"6389 Las Vegas Blvd, Las Vegas, NV",Restaurant,Expired,46
+Vegas Retail Hub 68,Laura Jones,"695 Charleston Blvd, Las Vegas, NV",Consulting,Revoked,37
+Elite Consulting 74,David Brown,"9495 Charleston Blvd, Las Vegas, NV",Retail,Revoked,52
+Elite Consulting 64,Emily Williams,"467 Charleston Blvd, Las Vegas, NV",Automotive Repair,Active,57
+Elite Consulting 51,Emily Martinez,"4843 Main St, Las Vegas, NV",Automotive Repair,Revoked,85
+QuickFix Auto 62,Robert Miller,"7584 Rainbow Blvd, Las Vegas, NV",Automotive Repair,Revoked,57
+Sunrise Cafe 55,John Garcia,"3156 Main St, Las Vegas, NV",Restaurant,Revoked,66
+Elite Consulting 61,Daniel Davis,"4676 Elm St, Las Vegas, NV",Construction,Active,33
+Sunrise Cafe 27,Robert Jones,"6187 Sunset Blvd, Las Vegas, NV",Retail,Revoked,85
+Elite Consulting 95,Emily Miller,"5766 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Active,32
+Sunrise Cafe 84,Sarah Smith,"3197 Elm St, Las Vegas, NV",Construction,Revoked,77
+QuickFix Auto 67,Emily Martinez,"1500 Rainbow Blvd, Las Vegas, NV",Restaurant,Expired,32
+QuickFix Auto 59,Jane Martinez,"1824 Sunset Blvd, Las Vegas, NV",Construction,Active,89
+Vegas Retail Hub 64,Laura Brown,"2813 Rainbow Blvd, Las Vegas, NV",Retail,Revoked,53
+Sunrise Cafe 59,Michael Williams,"7102 Charleston Blvd, Las Vegas, NV",Retail,Revoked,13
+Silver State Contractors 63,Sarah Johnson,"6562 Las Vegas Blvd, Las Vegas, NV",Construction,Expired,49
+Silver State Contractors 2,Sarah Hernandez,"3726 Sunset Blvd, Las Vegas, NV",Automotive Repair,Expired,26
+Sunrise Cafe 70,David Johnson,"6823 Charleston Blvd, Las Vegas, NV",Restaurant,Revoked,10
+Silver State Contractors 53,John Hernandez,"9777 Sunset Blvd, Las Vegas, NV",Construction,Expired,16
+QuickFix Auto 66,Robert Miller,"7257 Rainbow Blvd, Las Vegas, NV",Retail,Revoked,73
+Sunrise Cafe 56,John Johnson,"4392 Main St, Las Vegas, NV",Retail,Revoked,37
+Sunrise Cafe 93,Jessica Smith,"6103 Sunset Blvd, Las Vegas, NV",Automotive Repair,Active,48
+Elite Consulting 79,Daniel Jones,"7109 Las Vegas Blvd, Las Vegas, NV",Restaurant,Active,17
+Sunrise Cafe 99,John Miller,"2197 Sunset Blvd, Las Vegas, NV",Restaurant,Active,94
+QuickFix Auto 57,Laura Williams,"2936 Elm St, Las Vegas, NV",Consulting,Revoked,80
+Elite Consulting 9,Daniel Jones,"9649 Sunset Blvd, Las Vegas, NV",Automotive Repair,Revoked,26
+Sunrise Cafe 30,John Williams,"8578 Rainbow Blvd, Las Vegas, NV",Consulting,Expired,34
+Elite Consulting 39,Michael Garcia,"3901 Elm St, Las Vegas, NV",Automotive Repair,Active,100
+Elite Consulting 54,Jane Johnson,"3259 Main St, Las Vegas, NV",Automotive Repair,Active,18
+Elite Consulting 87,Daniel Smith,"1056 Rainbow Blvd, Las Vegas, NV",Consulting,Expired,84
+Vegas Retail Hub 34,Emily Martinez,"6029 Fremont St, Las Vegas, NV",Retail,Active,69
+Vegas Retail Hub 51,Emily Miller,"3689 Las Vegas Blvd, Las Vegas, NV",Retail,Expired,23
+QuickFix Auto 96,John Hernandez,"9564 Main St, Las Vegas, NV",Restaurant,Revoked,29
+Vegas Retail Hub 83,Michael Brown,"677 Fremont St, Las Vegas, NV",Automotive Repair,Expired,70
+QuickFix Auto 5,Jane Johnson,"8811 Las Vegas Blvd, Las Vegas, NV",Consulting,Active,99
+QuickFix Auto 89,Jane Brown,"1133 Fremont St, Las Vegas, NV",Restaurant,Revoked,41
+Elite Consulting 75,Laura Williams,"8740 Sunset Blvd, Las Vegas, NV",Construction,Revoked,28
+Elite Consulting 94,Jessica Brown,"9197 Elm St, Las Vegas, NV",Automotive Repair,Expired,99
+QuickFix Auto 86,David Jones,"1253 Las Vegas Blvd, Las Vegas, NV",Retail,Revoked,40
+QuickFix Auto 29,Laura Johnson,"7034 Main St, Las Vegas, NV",Automotive Repair,Revoked,62
+Elite Consulting 6,John Smith,"5777 Main St, Las Vegas, NV",Automotive Repair,Active,81
+Elite Consulting 5,Sarah Williams,"8150 Elm St, Las Vegas, NV",Construction,Active,1
+Silver State Contractors 58,Emily Hernandez,"2197 Fremont St, Las Vegas, NV",Construction,Expired,93
+Elite Consulting 78,Michael Johnson,"7459 Fremont St, Las Vegas, NV",Construction,Expired,40
+Sunrise Cafe 41,Jessica Brown,"6624 Elm St, Las Vegas, NV",Consulting,Revoked,72
+Elite Consulting 36,John Miller,"8136 Charleston Blvd, Las Vegas, NV",Construction,Expired,43
+QuickFix Auto 79,David Jones,"1063 Charleston Blvd, Las Vegas, NV",Automotive Repair,Expired,20
+Vegas Retail Hub 77,Daniel Jones,"9868 Rainbow Blvd, Las Vegas, NV",Consulting,Active,6
+Vegas Retail Hub 34,Laura Jones,"854 Fremont St, Las Vegas, NV",Automotive Repair,Active,56
+Sunrise Cafe 94,Daniel Martinez,"2285 Elm St, Las Vegas, NV",Automotive Repair,Expired,44
+QuickFix Auto 28,Robert Davis,"8820 Fremont St, Las Vegas, NV",Retail,Active,92
+Silver State Contractors 98,Robert Johnson,"6208 Charleston Blvd, Las Vegas, NV",Construction,Revoked,97
+Vegas Retail Hub 73,Laura Miller,"3837 Sunset Blvd, Las Vegas, NV",Consulting,Active,66
+Vegas Retail Hub 5,Jane Davis,"2957 Elm St, Las Vegas, NV",Restaurant,Revoked,12
+Sunrise Cafe 85,Sarah Williams,"5326 Sunset Blvd, Las Vegas, NV",Consulting,Revoked,44
+Sunrise Cafe 63,Jane Jones,"3187 Sunset Blvd, Las Vegas, NV",Automotive Repair,Revoked,74
+Vegas Retail Hub 28,Jane Brown,"2540 Main St, Las Vegas, NV",Restaurant,Expired,65
+Vegas Retail Hub 76,David Miller,"5553 Sunset Blvd, Las Vegas, NV",Construction,Active,63
+Elite Consulting 6,Michael Jones,"5112 Las Vegas Blvd, Las Vegas, NV",Construction,Expired,60
+Vegas Retail Hub 93,David Johnson,"1844 Main St, Las Vegas, NV",Consulting,Expired,10
+Vegas Retail Hub 32,Sarah Garcia,"1006 Sunset Blvd, Las Vegas, NV",Construction,Revoked,76
+Silver State Contractors 67,Emily Miller,"6928 Fremont St, Las Vegas, NV",Retail,Expired,69
+Vegas Retail Hub 1,John Brown,"3334 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Active,55
+Silver State Contractors 48,Michael Davis,"2395 Fremont St, Las Vegas, NV",Automotive Repair,Expired,46
+Elite Consulting 4,Sarah Garcia,"7738 Las Vegas Blvd, Las Vegas, NV",Retail,Revoked,97
+QuickFix Auto 40,Robert Miller,"461 Elm St, Las Vegas, NV",Restaurant,Revoked,59
+Elite Consulting 9,Laura Hernandez,"1727 Elm St, Las Vegas, NV",Automotive Repair,Active,89
+Silver State Contractors 99,Sarah Martinez,"9522 Fremont St, Las Vegas, NV",Consulting,Expired,94
+Silver State Contractors 58,Sarah Hernandez,"929 Sunset Blvd, Las Vegas, NV",Automotive Repair,Expired,60
+Sunrise Cafe 85,Laura Garcia,"1633 Rainbow Blvd, Las Vegas, NV",Restaurant,Revoked,15
+Vegas Retail Hub 15,Daniel Martinez,"8647 Rainbow Blvd, Las Vegas, NV",Consulting,Expired,66
+QuickFix Auto 67,Robert Miller,"673 Elm St, Las Vegas, NV",Retail,Active,37
+QuickFix Auto 68,Robert Jones,"8877 Elm St, Las Vegas, NV",Restaurant,Active,5
+Elite Consulting 20,Jane Smith,"5056 Elm St, Las Vegas, NV",Automotive Repair,Active,35
+Silver State Contractors 54,Laura Hernandez,"1491 Las Vegas Blvd, Las Vegas, NV",Retail,Active,93
+Sunrise Cafe 24,Emily Hernandez,"3471 Charleston Blvd, Las Vegas, NV",Automotive Repair,Active,97
+Elite Consulting 13,Daniel Johnson,"1181 Sunset Blvd, Las Vegas, NV",Restaurant,Expired,90
+Elite Consulting 6,Jane Miller,"3793 Sunset Blvd, Las Vegas, NV",Consulting,Revoked,32
+Sunrise Cafe 46,Sarah Miller,"9322 Elm St, Las Vegas, NV",Automotive Repair,Expired,62
+QuickFix Auto 82,Jessica Garcia,"5749 Rainbow Blvd, Las Vegas, NV",Restaurant,Revoked,13
+Elite Consulting 79,John Brown,"8731 Charleston Blvd, Las Vegas, NV",Automotive Repair,Revoked,72
+Elite Consulting 56,Jessica Jones,"2549 Main St, Las Vegas, NV",Construction,Active,25
+QuickFix Auto 51,Robert Davis,"4811 Main St, Las Vegas, NV",Construction,Expired,30
+Silver State Contractors 55,Jane Smith,"9780 Charleston Blvd, Las Vegas, NV",Automotive Repair,Revoked,29
+Vegas Retail Hub 9,Laura Hernandez,"5191 Fremont St, Las Vegas, NV",Automotive Repair,Active,47
+Silver State Contractors 70,David Hernandez,"638 Main St, Las Vegas, NV",Automotive Repair,Revoked,80
+QuickFix Auto 8,Emily Miller,"1550 Sunset Blvd, Las Vegas, NV",Construction,Active,76
+Vegas Retail Hub 30,Sarah Brown,"1338 Main St, Las Vegas, NV",Restaurant,Active,47
+Vegas Retail Hub 92,Sarah Johnson,"4306 Rainbow Blvd, Las Vegas, NV",Automotive Repair,Expired,22
+Silver State Contractors 48,Daniel Hernandez,"9987 Las Vegas Blvd, Las Vegas, NV",Consulting,Expired,46
+Silver State Contractors 25,John Brown,"7340 Elm St, Las Vegas, NV",Construction,Active,63
+QuickFix Auto 67,Sarah Davis,"3441 Fremont St, Las Vegas, NV",Automotive Repair,Active,8
+Vegas Retail Hub 14,Jessica Hernandez,"695 Fremont St, Las Vegas, NV",Restaurant,Active,6
+Silver State Contractors 76,John Miller,"2946 Las Vegas Blvd, Las Vegas, NV",Consulting,Active,18
+Elite Consulting 91,Michael Garcia,"182 Fremont St, Las Vegas, NV",Consulting,Expired,54
+Sunrise Cafe 52,Jane Martinez,"2263 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Active,69
+Elite Consulting 46,Jane Hernandez,"1906 Elm St, Las Vegas, NV",Construction,Active,66
+Sunrise Cafe 82,John Brown,"3063 Sunset Blvd, Las Vegas, NV",Restaurant,Expired,66
+Vegas Retail Hub 65,John Jones,"8695 Sunset Blvd, Las Vegas, NV",Retail,Expired,9
+Vegas Retail Hub 31,Daniel Martinez,"3980 Charleston Blvd, Las Vegas, NV",Retail,Revoked,13
+Sunrise Cafe 64,Daniel Smith,"2168 Fremont St, Las Vegas, NV",Construction,Expired,27
+Elite Consulting 7,David Smith,"7944 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Revoked,88
+Sunrise Cafe 87,David Hernandez,"1870 Las Vegas Blvd, Las Vegas, NV",Retail,Revoked,80
+QuickFix Auto 46,John Johnson,"1310 Elm St, Las Vegas, NV",Consulting,Expired,56
+QuickFix Auto 15,Jane Davis,"5547 Sunset Blvd, Las Vegas, NV",Consulting,Expired,49
+Silver State Contractors 22,David Garcia,"5656 Charleston Blvd, Las Vegas, NV",Consulting,Revoked,50
+Silver State Contractors 4,John Brown,"860 Elm St, Las Vegas, NV",Automotive Repair,Revoked,95
+Sunrise Cafe 43,Michael Jones,"6152 Rainbow Blvd, Las Vegas, NV",Retail,Revoked,21
+Elite Consulting 45,Emily Davis,"2138 Elm St, Las Vegas, NV",Retail,Revoked,89
+Sunrise Cafe 14,Emily Williams,"4665 Main St, Las Vegas, NV",Retail,Expired,21
+QuickFix Auto 63,Daniel Williams,"1906 Sunset Blvd, Las Vegas, NV",Retail,Active,29
+QuickFix Auto 82,Emily Garcia,"7632 Rainbow Blvd, Las Vegas, NV",Construction,Expired,66
+Sunrise Cafe 42,Daniel Hernandez,"7764 Las Vegas Blvd, Las Vegas, NV",Restaurant,Active,68
+Silver State Contractors 37,Jane Jones,"2510 Las Vegas Blvd, Las Vegas, NV",Automotive Repair,Expired,14
+Silver State Contractors 44,Sarah Martinez,"5141 Main St, Las Vegas, NV",Construction,Active,44
+Silver State Contractors 7,Laura Brown,"9522 Sunset Blvd, Las Vegas, NV",Retail,Expired,98
+Vegas Retail Hub 99,John Williams,"8379 Rainbow Blvd, Las Vegas, NV",Construction,Active,4
+QuickFix Auto 98,Sarah Miller,"2895 Fremont St, Las Vegas, NV",Retail,Active,7
+Vegas Retail Hub 42,Daniel Miller,"6214 Charleston Blvd, Las Vegas, NV",Construction,Revoked,70
+Vegas Retail Hub 82,Laura Williams,"6862 Charleston Blvd, Las Vegas, NV",Automotive Repair,Expired,8
+Silver State Contractors 75,Jane Miller,"4162 Las Vegas Blvd, Las Vegas, NV",Restaurant,Revoked,31
+Vegas Retail Hub 2,David Smith,"8155 Charleston Blvd, Las Vegas, NV",Restaurant,Active,50
+Vegas Retail Hub 94,John Brown,"4808 Main St, Las Vegas, NV",Automotive Repair,Revoked,32
+Sunrise Cafe 86,Robert Martinez,"6210 Main St, Las Vegas, NV",Construction,Active,1
+Elite Consulting 38,John Brown,"4395 Sunset Blvd, Las Vegas, NV",Automotive Repair,Active,24
+Vegas Retail Hub 27,Jane Miller,"4599 Elm St, Las Vegas, NV",Restaurant,Revoked,6
+QuickFix Auto 58,Emily Brown,"8340 Fremont St, Las Vegas, NV",Retail,Revoked,31
+Vegas Retail Hub 31,David Jones,"4401 Elm St, Las Vegas, NV",Restaurant,Expired,77
+QuickFix Auto 75,John Miller,"7596 Fremont St, Las Vegas, NV",Consulting,Revoked,12
+Vegas Retail Hub 48,Sarah Johnson,"8301 Las Vegas Blvd, Las Vegas, NV",Restaurant,Active,15
+Sunrise Cafe 22,Emily Davis,"7563 Sunset Blvd, Las Vegas, NV",Restaurant,Expired,3
+Sunrise Cafe 3,Sarah Smith,"5018 Elm St, Las Vegas, NV",Restaurant,Revoked,26
+Sunrise Cafe 95,Jessica Garcia,"4296 Elm St, Las Vegas, NV",Automotive Repair,Active,84
+Vegas Retail Hub 94,Robert Johnson,"902 Fremont St, Las Vegas, NV",Construction,Revoked,79
+QuickFix Auto 46,Laura Garcia,"7044 Fremont St, Las Vegas, NV",Automotive Repair,Revoked,56
+Silver State Contractors 77,Daniel Martinez,"2013 Rainbow Blvd, Las Vegas, NV",Automotive Repair,Active,78
+Silver State Contractors 25,Jessica Williams,"7043 Sunset Blvd, Las Vegas, NV",Retail,Revoked,91
+Sunrise Cafe 46,Daniel Miller,"1170 Elm St, Las Vegas, NV",Retail,Active,86
+Sunrise Cafe 1,David Martinez,"4303 Charleston Blvd, Las Vegas, NV",Retail,Active,99
+Silver State Contractors 43,Jane Jones,"4164 Fremont St, Las Vegas, NV",Consulting,Revoked,0
+Vegas Retail Hub 48,Robert Martinez,"1153 Charleston Blvd, Las Vegas, NV",Consulting,Active,61
+Elite Consulting 18,Emily Miller,"7507 Rainbow Blvd, Las Vegas, NV",Construction,Revoked,9
+Elite Consulting 29,Daniel Martinez,"3269 Rainbow Blvd, Las Vegas, NV",Restaurant,Expired,24
+Silver State Contractors 99,Michael Williams,"8561 Rainbow Blvd, Las Vegas, NV",Restaurant,Expired,57
+Sunrise Cafe 73,Sarah Smith,"6884 Sunset Blvd, Las Vegas, NV",Restaurant,Expired,78
+QuickFix Auto 35,Jessica Miller,"6730 Fremont St, Las Vegas, NV",Restaurant,Expired,97
+QuickFix Auto 39,Jane Smith,"3130 Rainbow Blvd, Las Vegas, NV",Restaurant,Revoked,66
+Vegas Retail Hub 32,Jane Davis,"4772 Sunset Blvd, Las Vegas, NV",Construction,Revoked,87
+Elite Consulting 35,Robert Hernandez,"6946 Sunset Blvd, Las Vegas, NV",Restaurant,Active,47
+Elite Consulting 65,Jane Martinez,"9574 Charleston Blvd, Las Vegas, NV",Consulting,Expired,44
+Sunrise Cafe 9,Jane Hernandez,"1282 Rainbow Blvd, Las Vegas, NV",Consulting,Expired,20
+Elite Consulting 91,Jessica Hernandez,"6834 Elm St, Las Vegas, NV",Restaurant,Revoked,33
+Silver State Contractors 36,Jessica Johnson,"3456 Main St, Las Vegas, NV",Automotive Repair,Revoked,22
+Vegas Retail Hub 87,Sarah Johnson,"5647 Main St, Las Vegas, NV",Retail,Active,17
+Vegas Retail Hub 27,Emily Jones,"1740 Sunset Blvd, Las Vegas, NV",Consulting,Active,11
+Silver State Contractors 19,Jane Martinez,"794 Sunset Blvd, Las Vegas, NV",Construction,Expired,49
+Silver State Contractors 98,Michael Martinez,"5816 Charleston Blvd, Las Vegas, NV",Restaurant,Active,25
+Sunrise Cafe 87,Laura Davis,"4464 Elm St, Las Vegas, NV",Retail,Revoked,69
+Elite Consulting 69,Daniel Hernandez,"1118 Rainbow Blvd, Las Vegas, NV",Retail,Revoked,62
+Elite Consulting 88,Michael Martinez,"5888 Elm St, Las Vegas, NV",Restaurant,Expired,36
+QuickFix Auto 33,Laura Williams,"6472 Charleston Blvd, Las Vegas, NV",Retail,Expired,41
+QuickFix Auto 14,Jessica Johnson,"2782 Charleston Blvd, Las Vegas, NV",Consulting,Revoked,25
+Vegas Retail Hub 37,Michael Johnson,"1972 Elm St, Las Vegas, NV",Construction,Revoked,50
+Vegas Retail Hub 32,Emily Davis,"9061 Fremont St, Las Vegas, NV",Automotive Repair,Active,18
+Elite Consulting 71,Jessica Jones,"8400 Elm St, Las Vegas, NV",Construction,Expired,68
