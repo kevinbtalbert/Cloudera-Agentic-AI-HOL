@@ -1,0 +1,9 @@
+Retrieve the business name, loan range, lender, and business state for all loans where the loan amount is greater than $100,000. Sort the results by state.
+
+Identify the top 10 lenders that have issued the most loans. Count the total number of loans given by each lender and sort them in descending order.
+
+SELECT NAICS_Code, COUNT(*) AS total_loans
+FROM my_iceberg_table
+GROUP BY NAICS_Code
+ORDER BY total_loans DESC
+LIMIT 10;
